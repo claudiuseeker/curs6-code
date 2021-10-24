@@ -77,7 +77,7 @@ public class Homework {
     }
 
     static void linieNoua(String phrase) {
-
+         //
         //for(int i=0;i<=phrase.length()-1;i++) {
             String[] propozitii = phrase.trim().split(".");
             System.out.println(Arrays.toString(propozitii));
